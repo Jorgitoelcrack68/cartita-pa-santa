@@ -1,0 +1,10 @@
+body{
+    background-image: url("zoom-navidad-01.jpg");
+}
+img{
+    height: 10cm;
+    width: 10cm;
+}
+p,h1{
+    font-family: 'Angas', sans-serif;
+}
